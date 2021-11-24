@@ -32,3 +32,11 @@
   - [**Image Classification**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/Simplepreprocessor.ipynb)
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%203.PNG)
+
+**Day4 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have read about Parameterized Learning, Cross Entropy Loss and Softmax Classifiers, Weights and Biases, Squared Hinge Loss, Scoring Function and Optimization, Linear Classification and few more topics related to the same from here. I have presented the notes about K-Nearest Neighbor and Parameterized Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**Linear Classifier**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/LinearClassifer.ipynb)
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%204.PNG)
