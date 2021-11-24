@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Deep Learning for Computer Vision with Python**](https://www.pyimagesearch.com/books-and-courses/) | |
