@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Deep Learning for Computer Vision with Python**](https://www.pyimagesearch.com/books-and-courses/) | |
@@ -41,3 +40,11 @@
   - [**Linear Classifier**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/LinearClassifer.ipynb)
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%204.PNG)
+
+**Day5 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I am reading about Optimization Methods and Regularization, Parameterized Learning and Optimization, Gradient Descent, Loss Landscape and Optimization Surface, Local and Global Minimum, Loss Function, Partial Derivative, Classification Accuracy and few more topics related to the same from here. I have also read about Data Pipeline, Meta-Data, Data Provenance and Lineage and Label Consistency from Introduction to Machine Learning in Production course of Coursera. I have presented the notes about Gradient Descent and Optimization here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [Machine Learning Engineering for Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/welcome)
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%205.PNG)
