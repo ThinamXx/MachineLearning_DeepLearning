@@ -67,3 +67,12 @@
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%207a.PNG)
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%207b.PNG)
+
+**Day8 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about Regularization, Cross Entropy Loss Function, Updating Loss and Weight, L2 Regularization and Weight Decay, Elastic Net Regularization, Image Classification, SGD Classifier, Label Encoder and few more topics related to the same from here. I have presented the implementation of Preprocessing Dataset, Encoding Labels, SGD Classifier and Regularization here in the snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [Stochastic Gradient Descent](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/StochasticGradientDescent.ipynb) 
+  - [Machine Learning Engineering for Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/welcome)
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%208.PNG)
