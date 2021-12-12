@@ -13,7 +13,6 @@
 | 2. [**Linear Classifier**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/LinearClassifer.ipynb) |
 | 3. [Gradient Descent](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/GradientDescent.ipynb) |
 | 4. [Stochastic Gradient Descent](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/StochasticGradientDescent.ipynb) |
-| 5. [Image Sequences & Video](https://github.com/ThinamXx/Fastai/blob/main/21.%20ImageSequences%20%26%20Video/ImageSequences%26Video.ipynb) |
 
 **Day1 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have been reading about History of Deep Learning, Image Fundamentals, Pixels, Scaling and Aspect Ratios, Image Classification, Semantic Gap, Feature Extraction, Viewpoint Variation, Scale Variation, Deformation, Occlusions, Illumination, Background Clutter, Intra-class Variation, Supervised and Unsupervised Learning and few more topics related to the same. I have presented the notes about Image Classification, Semantic Gap, Feature Extraction, Supervised and Unsupervised Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
@@ -86,7 +85,6 @@
 - **Neural Networks**: Neural networks are the building blocks of deep learning systems. A system is called a neural network if it contains a labeled, directed graph structure where each node in the graph performs some computation. On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have read about Neural Networks, Human Neuron Anatomy, Artificial Models, Weights and Gradients and few more topics related to the same from here. I have also spend time in Using Fasti on Sequences of Images & Video. I have presented the implementation of Preparing Dataset, Decoding Videos and Extracting Images using Fastai & PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
 - Book:
   - Deep Learning for Computer Vision with Python
-  - [Image Sequences & Video](https://github.com/ThinamXx/Fastai/blob/main/21.%20ImageSequences%20%26%20Video/ImageSequences%26Video.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%209.PNG)
 
@@ -94,6 +92,5 @@
 - **Neural Networks**: Neural networks are the building blocks of deep learning systems. A system is called a neural network if it contains a labeled, directed graph structure where each node in the graph performs some computation. **Rectified Linear Unit**:ReLU is zero for negative inputs but increases linearly for positive inputs. The ReLU function is not saturable and is also extremely computationally efficient. ReLU is the most popular activation function used in deep learning and has stronger biological motivations.  On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have read about Activation Functions: Sigmoid, Tanh, ReLU, Feedforward Neural Network Architecture, Neural Learning, The Perceptron Algorithm, AND, OR and XOR Datasets, Perceptron Training Procedure and Delta Rule and few more topics related to the same from here. I have presented the notes about Sigmoid Function, ReLU and Feedforward Networks here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
 - Book:
   - Deep Learning for Computer Vision with Python
-  - [Image Sequences & Video](https://github.com/ThinamXx/Fastai/blob/main/21.%20ImageSequences%20%26%20Video/ImageSequences%26Video.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2010.PNG)
