@@ -100,4 +100,4 @@
   - Deep Learning for Computer Vision with Python
   - [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) 
   
-![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2010.PNG)
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2011.PNG)
