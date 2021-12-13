@@ -93,3 +93,11 @@
   - Deep Learning for Computer Vision with Python
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2010.PNG)
+
+**Day11 of MachineLearningDeepLearning**
+- **Rectified Linear Unit**:ReLU is zero for negative inputs but increases linearly for positive inputs. The ReLU function is not saturable and is also extremely computationally efficient. ReLU is the most popular activation function used in deep learning and has stronger biological motivations.  On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about Neural Networks, Perceptron Algorithm, Learning Rate, Weight Matrix and Bias, Dot Product, Linear and Non-linear Datasets, Backpropagation and Multilayer Networks, Forward Pass and Backward Pass and few more topics related to the same from here. I have presented the implementation of Perceptron Algorithm here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2010.PNG)
