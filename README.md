@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Deep Learning for Computer Vision with Python I**](https://www.pyimagesearch.com/books-and-courses/) | |
@@ -102,3 +101,12 @@
   - [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2011.PNG)
+
+**Day12 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about Nonlinear XOR Dataset, Learning Rate and Weight Initializations, Neural Networks Architecture, Squared Loss, Backpropagation, Sigmoid Activation Function, Gradient Descent and Weight Updates, Derivatives and Chain Rule, Dot Product and few more topics related to the same from here. I have presented the implementation of Neural Network and Backpropagation here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2012a.PNG)
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2012b.PNG)
