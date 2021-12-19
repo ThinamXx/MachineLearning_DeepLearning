@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Deep Learning for Computer Vision with Python I**](https://www.pyimagesearch.com/books-and-courses/) | |
@@ -112,3 +111,11 @@
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2012a.PNG)
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2012b.PNG)
+
+**Day13 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been learning about Multi-layer Neural Networks, Backpropagation, Min-max Normalization, One Hot Encoding and Feature Vectors, Probabilities, Gradient Descent, Label Binarizer, Classification Report, SGD Optimizer and Cross Entropy Loss Function and few more topics related to the same from here. I have presented the implementation of Neural Network and Backpropagation using Keras here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2013.PNG)
