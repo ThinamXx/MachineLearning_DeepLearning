@@ -119,3 +119,11 @@
   - [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2013.PNG)
+
+**Day14 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been learning about Convolutional Neural Networks, Convolutions versus Cross-correlation, Kernels, CNN Building Blocks, Layer Types, Depth, Stride, Zero-padding, Filters and Receptive Field and few more topics related to the same from here. I have presented the notes about Backpropagation and Convolutional Layers here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2014.PNG)
