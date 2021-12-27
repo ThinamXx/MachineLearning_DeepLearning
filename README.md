@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Deep Learning for Computer Vision with Python I**](https://www.pyimagesearch.com/books-and-courses/) | |
@@ -128,3 +127,11 @@
   - [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2014.PNG)
+
+**Day15 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about Activation Layers, Pooling Layers, RELU, Fully Connected Layers, Batch Normalization Layer, Dropout Layer, Convolutional Neural Networks Patterns, Image To Array Preprocessor, Resizing and Shallow Network, Sequential Model and few more topics related to the same from here. I have presented the implementation of Image to Array Preprocessor and Shallow Network here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**Convolutional Layers II**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers%20II.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2015.PNG)
