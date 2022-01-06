@@ -146,3 +146,11 @@
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2016a.PNG)
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2016b.PNG)
+
+**Day17 of MachineLearningDeepLearning**
+- **Logistic Regression**: However, when unnecessary or excessive number of variables is used in logistic regression model, peculiarities i.e. special attributes of the underlying dataset disproportionately affect the coefficient of the model, the phenomena commonly known as overfitting. So, it is most important that the logistic regression model doesn't start training more variables than is justified for the given number of observations. On my Journey of Machine Learning and Deep Learning, I have been reading the book "Deep Learning for Computer Vision with Python". Here, I have been reading about VGG Networks, Batch Normalization, Max Pooling and Activations, Fully Connected Layers, Classification Report, Learning Rate and Decay Parameters and few more topics related to the same from here. I have presented the implementation of VGGNet Architecture here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**VGGNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/06.%20VGGNet%20Architecture/Mini%20VGGNet.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2017.PNG)
