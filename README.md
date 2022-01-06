@@ -14,6 +14,7 @@
 | 4. [**Stochastic Gradient Descent**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/StochasticGradientDescent.ipynb) |
 | 5. [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) |
 | 6. [**Convolutional Layers II**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers%20II.ipynb) |
+| 7. [**LeNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/05.%20LeNet%20Architecture/LeNet.ipynb) |
 
 **Day1 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have been reading about History of Deep Learning, Image Fundamentals, Pixels, Scaling and Aspect Ratios, Image Classification, Semantic Gap, Feature Extraction, Viewpoint Variation, Scale Variation, Deformation, Occlusions, Illumination, Background Clutter, Intra-class Variation, Supervised and Unsupervised Learning and few more topics related to the same. I have presented the notes about Image Classification, Semantic Gap, Feature Extraction, Supervised and Unsupervised Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
@@ -136,3 +137,12 @@
   - [**Convolutional Layers II**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers%20II.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2015.PNG)
+
+**Day16 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about LeNet Architecture, Convolutional Layers, RELU Activation Function, Max Pooling Layer, Fully Connected Dense Layer, Softmax Activation Function, Input Data Format and Channels, Flatten Layer, Label Binarizer and Encoding, SGD, Classification Report and few more topics related to the same from here. I have presented the implementation of LeNet Architecture, Training and Model Evaluation here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**LeNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/05.%20LeNet%20Architecture/LeNet.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2016a.PNG)
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2016b.PNG)
