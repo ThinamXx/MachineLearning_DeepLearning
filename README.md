@@ -154,3 +154,11 @@
   - [**VGGNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/06.%20VGGNet%20Architecture/Mini%20VGGNet.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2017.PNG)
+
+**Day18 of MachineLearningDeepLearning**
+- **Logistic Regression**: In case of logistic regression, the response variable is the log of odds of being classified in a group of binary or multi-class responses. This definition essentially demonstrates that odds can take the form of a vector. On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about Learning Rate Schedulers, Step-based Decay, Spotting Overfitting and Underfitting, Training Error and Generalization Error, Effects of Learning Rates, Loss and Accuracy Curves, VGG Network Architectures and few more topics related to the same from here. I have presented the notes of VGGNet Architecture here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**VGGNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/06.%20VGGNet%20Architecture/Mini%20VGGNet.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2018.PNG)
