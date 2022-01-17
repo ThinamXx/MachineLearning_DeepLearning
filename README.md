@@ -162,3 +162,11 @@
   - [**VGGNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/06.%20VGGNet%20Architecture/Mini%20VGGNet.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2018.PNG)
+
+**Day19 of MachineLearningDeepLearning**
+- **Convolutional Neural Networks**: Convolutions are just a type of matrix multiplication with two constraints on the weight matrix: some elements are always zero and some elements are tied or forced to always have the same value. Batch Normalization adds some extra randomness to the training process. Larger batches have gradients that are more accurate since they are calculated from more data. But larger batch size means fewer batches per epoch which means fewer opportunities for the model to update weights. On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about Pretrained Convolutional Neural Networks for Classification, VGG Neural Networks, ResNet Architectures, Inception V3 and GoogLeNet, Xception, Processing Images and ImageNet and few more topics related to the same from here. I have presented the implementation of pretrained VGGNet and Xception modules here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**Pretrained CNNs**](https://github.com/ThinamXx/ComputerVision/blob/main/07.%20Pretrained%20CNNs/PretrainedCNNs.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2019.PNG)
