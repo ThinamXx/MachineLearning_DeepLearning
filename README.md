@@ -15,6 +15,9 @@
 | 5. [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) |
 | 6. [**Convolutional Layers II**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers%20II.ipynb) |
 | 7. [**LeNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/05.%20LeNet%20Architecture/LeNet.ipynb) |
+| 8. [**VGGNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/06.%20VGGNet%20Architecture/Mini%20VGGNet.ipynb) | 
+| 9. [**Pretrained CNNs**](https://github.com/ThinamXx/ComputerVision/blob/main/07.%20Pretrained%20CNNs/PretrainedCNNs.ipynb) | 
+| 10. [**Object Detection**](https://github.com/ThinamXx/ComputerVision/blob/main/08.%20Object%20Detection/ObjectDetection.ipynb) | 
 
 **Day1 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have been reading about History of Deep Learning, Image Fundamentals, Pixels, Scaling and Aspect Ratios, Image Classification, Semantic Gap, Feature Extraction, Viewpoint Variation, Scale Variation, Deformation, Occlusions, Illumination, Background Clutter, Intra-class Variation, Supervised and Unsupervised Learning and few more topics related to the same. I have presented the notes about Image Classification, Semantic Gap, Feature Extraction, Supervised and Unsupervised Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
@@ -170,3 +173,13 @@
   - [**Pretrained CNNs**](https://github.com/ThinamXx/ComputerVision/blob/main/07.%20Pretrained%20CNNs/PretrainedCNNs.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2019.PNG)
+
+**Day20 of MachineLearningDeepLearning**
+- **Object Detection**: Object Detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class. On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about Object Detection with Pretrained Networks, COCO Dataset, Preprocessing Images and Video, Real Time Object Detection and few more topics related to the same from here.  I have presented the implementation Object Detection here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- - Book:
+  - Deep Learning for Computer Vision with Python
+  - [**Object Detection**](https://github.com/ThinamXx/ComputerVision/blob/main/08.%20Object%20Detection/ObjectDetection.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2020a.PNG)
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2020b.PNG)
+
