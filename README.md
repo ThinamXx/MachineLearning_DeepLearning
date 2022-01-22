@@ -4,7 +4,7 @@
 
 | Books and Resources | Status of Completion |
 | ----- | -----|
-| 1. [**Deep Learning for Computer Vision with Python I**](https://www.pyimagesearch.com/books-and-courses/) | |
+| 1. [**Deep Learning for Computer Vision with Python I**](https://www.pyimagesearch.com/books-and-courses/) | ✔ |
 
 | Projects and Notebooks |
 | ---------------------- |
