@@ -176,10 +176,18 @@
 
 **Day20 of MachineLearningDeepLearning**
 - **Object Detection**: Object Detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class. On my Journey of Machine Learning and Deep Learning, I have been reading the book **Deep Learning for Computer Vision with Python**. Here, I have been reading about Object Detection with Pretrained Networks, COCO Dataset, Preprocessing Images and Video, Real Time Object Detection and few more topics related to the same from here.  I have presented the implementation Object Detection here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
-- - Book:
+- Book:
   - Deep Learning for Computer Vision with Python
   - [**Object Detection**](https://github.com/ThinamXx/ComputerVision/blob/main/08.%20Object%20Detection/ObjectDetection.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2020a.PNG)
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2020b.PNG)
 
+**Day21 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have started reading the book **Deep Learning - Ian Goodfellow**. Here, I have read about Introduction to DL, Scalars, Vectors, Matrices and Tensors, Random Variables and Probability Distributions, Overflow and Underflow, Gradient Based Optimization, Learning Algorithms and many topics related to the same. I have presented the implementation The Generator and The Discriminator using PyTorch here in the snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - Deep Learning for Computer Vision with Python
+  - [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2021a.PNG)
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2021b.PNG)
