@@ -186,8 +186,17 @@
 **Day21 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have started reading the book **Deep Learning - Ian Goodfellow**. Here, I have read about Introduction to DL, Scalars, Vectors, Matrices and Tensors, Random Variables and Probability Distributions, Overflow and Underflow, Gradient Based Optimization, Learning Algorithms and many topics related to the same. I have presented the implementation The Generator and The Discriminator using PyTorch here in the snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
 - Book:
-  - Deep Learning for Computer Vision with Python
+  - Deep Learning
   - [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2021a.PNG)
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2021b.PNG)
+
+**Day22 of MachineLearningDeepLearning**
+- **Pattern Recognition**: The field of pattern recognition is concerned with the automatic discovery of regularities in data through the use of computer algorithms and with the use of these regularities to take actions such as classifying the data into different categories. Generalization, the ability to categorize correctly new examples that differ from those used for training is a central goal in pattern recognition. On my Journey of Machine Learning and Deep Learning, I have started reading the book **Pattern Recognition and Machine Learning - Bishop**. Here, I have read about Training and Learning Phase, Generalization, Pattern Recognition and Feature Extraction, Supervised Learning, Unsupervised Learning, Clustering and Density Estimation, Reinforcement Learning and few more topics related to the same. I have shared the notes about Pattern Recognition, Supervised and Unsupervised Learning and Reinforcement Learning here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Pattern Recognition and Machine Learning 
+  - [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2022.PNG)
+
