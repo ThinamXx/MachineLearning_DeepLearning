@@ -200,3 +200,10 @@
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2022.PNG)
 
+**Day23 of MachineLearningDeepLearning**
+- **Reinforcement Learning**: The technique of reinforcement learning is concerned with the problem of finding suitable actions to take in a given situation in order to maximize a reward. A general feature of reinforcement learning is the trade-off between exploration, in which the system tries out new kinds of actions to see how effective they are, and exploitation, in which the system makes use of actions that are known to yield a high reward. On my Journey of Machine Learning and Deep Learning, I have read about Deep Convolutional Generative Adversarial Networks, Image Segmentation, The Generator and The Discriminator, Weights Initialization, RELU Function, Convolutional Layers, Batch Normalization Layer, Cross Entropy Loss Function, Data Loader, Gradients and few more topics related to the same from here.  I have presented the implementation of Training DCGANs here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Pattern Recognition and Machine Learning 
+  - [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2023.PNG)
