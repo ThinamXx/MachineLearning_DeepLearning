@@ -208,3 +208,11 @@
   - [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2023.PNG)
+
+**Day24 of MachineLearningDeepLearning**
+- **Unsupervised Learning**: The pattern recognition problems in which the training data consists of a set of input vectors x without any corresponding target values are called unsupervised learning problems. The goal in such unsupervised learning problems may be to discover groups of similar examples within the data, where it is called clustering, or to determine the distribution of data within the input space, known as density estimation, or to project the data from a high-dimensional space down to two or three dimensions for the purpose of visualization. On my Journey of Machine Learning and Deep Learning, I have started reading the book **Pattern Recognition and Machine Learning - Bishop**. Here, I have read about Probability Theory, The Rules of Probability, Bayes' Theorem, Probability Densities, Expectations and Covariances, Bayesian Probabilities, The Gaussian Distribution, Maximum Likelihood and few more topics related to the same from here. I have shared the notes about Probability Theory, Bayes' Theorem and The Rules of Probability here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Pattern Recognition and Machine Learning 
+  - [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2024.PNG)
