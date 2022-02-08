@@ -20,6 +20,7 @@
 | 9. [**Pretrained CNNs**](https://github.com/ThinamXx/ComputerVision/blob/main/07.%20Pretrained%20CNNs/PretrainedCNNs.ipynb) | 
 | 10. [**Object Detection**](https://github.com/ThinamXx/ComputerVision/blob/main/08.%20Object%20Detection/ObjectDetection.ipynb) | 
 | 11. [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) | 
+| 12. [**Transformer Models**](https://github.com/ThinamXx/HuggingFace/blob/main/01.%20Transformer%20Models/TransformerModels.ipynb) |
 
 **Day1 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have been reading about History of Deep Learning, Image Fundamentals, Pixels, Scaling and Aspect Ratios, Image Classification, Semantic Gap, Feature Extraction, Viewpoint Variation, Scale Variation, Deformation, Occlusions, Illumination, Background Clutter, Intra-class Variation, Supervised and Unsupervised Learning and few more topics related to the same. I have presented the notes about Image Classification, Semantic Gap, Feature Extraction, Supervised and Unsupervised Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
@@ -217,3 +218,19 @@
   - [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2024.PNG)
+
+**Day26 of MachineLearningDeepLearning**
+- On my Journey of Machine Learning and Deep Learning, I have started reading the book "Pattern Recognition and Machine Learning - Bishop". Here, I am reading about Model Selection, The Curse of Dimensionality, Decision Theory, Minimizing the Misclassification Rate, Minimizing the Expected Loss, The Reject Option, Joint Probability Distribution and few more topics related to the same from here. I have shared the notes about Model Selection, Decision Theory and Loss Function here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Pattern Recognition and Machine Learning 
+  - [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2025.PNG)
+
+**Day27 of MachineLearningDeepLearning**
+- **Natural Language Processing**:NLP is a field of linguistics and machine learning focused on understanding everything related to human language. The aim of NLP tasks is not only to understand single words individually, but to be able to understand the context of those words. On my journey of Machine Learning and Deep Learning, I have started reading about Hugging Face. I have read about Natural Language Processing and Challenges, Sentiment Analysis, Zero Shot Classification, Text Generation, Mask Filling, Named Entity Recognition, Summarization, and Translation and few more topics related to the same from here. I have presented the implementation of Transformer Models here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Hugging Face 
+  - [**Transformer Models**](https://github.com/ThinamXx/HuggingFace/blob/main/01.%20Transformer%20Models/TransformerModels.ipynb) 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2026.PNG)
