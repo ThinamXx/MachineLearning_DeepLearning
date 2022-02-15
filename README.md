@@ -244,3 +244,10 @@
   - [**Pipeline Function**](https://github.com/ThinamXx/HuggingFace/blob/main/02.%20Pipeline%20Function/PipelineFunction.ipynb) 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2027.PNG)
+
+**Day28 of MachineLearningDeepLearning**
+- **Sequential Learning**: If the data set is sufficiently large, it may be worthwhile to use sequential algorithms, also known as on-line algorithms, in which the data points are considered one at a time, and the model parameters are updated after each such presentation. Sequential learning is also appropriate in which the data observations are arriving in a continuous stream. It can be achieved by applying the technique of stochastic gradient descent, also known as sequential gradient descent. On my journey of Machine Learning and Deep Learning, I am reading the book **Pattern Recognition and Machine Learning - Bishop**. Here, I have read about Sequential Learning, Geometry of Least Squares, Maximum Likelihood, Linear Basis Function Models, Linear Regression, Binary Variables and Multinomial Variables and few more topics related to the same from here.
+- Book:
+  - Pattern Recognition and Machine Learning 
+  
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2028.PNG)
