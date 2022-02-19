@@ -21,8 +21,9 @@
 | 9. [**Pretrained CNNs**](https://github.com/ThinamXx/ComputerVision/blob/main/07.%20Pretrained%20CNNs/PretrainedCNNs.ipynb) | 
 | 10. [**Object Detection**](https://github.com/ThinamXx/ComputerVision/blob/main/08.%20Object%20Detection/ObjectDetection.ipynb) | 
 | 11. [**DCGANs**](https://github.com/ThinamXx/GAN/blob/main/PyTorch/DCGAN.ipynb) | 
-| 12. [**Transformer Models**](https://github.com/ThinamXx/HuggingFace/blob/main/01.%20Transformer%20Models/TransformerModels.ipynb) |
-| 13. [**Pipeline Function**](https://github.com/ThinamXx/HuggingFace/blob/main/02.%20Pipeline%20Function/PipelineFunction.ipynb) | 
+| 12. [**Hugging Face: Transformer Models**](https://github.com/ThinamXx/HuggingFace/blob/main/01.%20Transformer%20Models/TransformerModels.ipynb) |
+| 13. [**Hugging Face: Pipeline Function**](https://github.com/ThinamXx/HuggingFace/blob/main/02.%20Pipeline%20Function/PipelineFunction.ipynb) | 
+| 14. [**Hugging Face: Models & Tokenizers**](https://github.com/ThinamXx/HuggingFace/blob/main/03.%20Tokenizers%20%26%20Models/Models%26Tokenizers.ipynb) |
 
 **Day1 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have been reading about History of Deep Learning, Image Fundamentals, Pixels, Scaling and Aspect Ratios, Image Classification, Semantic Gap, Feature Extraction, Viewpoint Variation, Scale Variation, Deformation, Occlusions, Illumination, Background Clutter, Intra-class Variation, Supervised and Unsupervised Learning and few more topics related to the same. I have presented the notes about Image Classification, Semantic Gap, Feature Extraction, Supervised and Unsupervised Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
@@ -251,3 +252,11 @@
   - Pattern Recognition and Machine Learning 
   
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2028.PNG)
+
+**Day29 of MachineLearningDeepLearning**
+- **Attention Masks**: Attention masks are tensors with the same shapes as the input IDs tensors, filled with 0s and 1s: 1s indicate the corresponding tokens should be attended to, and 0s indicate the corresponding tokens should not be attended to i.e. they should be ignored by the attention layers of the model. On my journey of Machine Learning and Deep Learning, I have started reading from **Hugging Face**. Here, I have read about Creating a Transformer, Tokenizers, Word-based, Character-based and Subword Tokenization, Encoding, Decoding, Padding and Attention Masks and few more topics related to the same from here. I have presented the implementation of Tokenizers, Padding and Attention Masks here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Hugging Face
+  - [**Hugging Face: Models & Tokenizers**](https://github.com/ThinamXx/HuggingFace/blob/main/03.%20Tokenizers%20%26%20Models/Models%26Tokenizers.ipynb)
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2029.PNG)
