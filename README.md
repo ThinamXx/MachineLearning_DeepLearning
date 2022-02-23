@@ -260,3 +260,12 @@
   - [**Hugging Face: Models & Tokenizers**](https://github.com/ThinamXx/HuggingFace/blob/main/03.%20Tokenizers%20%26%20Models/Models%26Tokenizers.ipynb)
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2029.PNG)
+
+**Day30 of MachineLearningDeepLearning**
+- **Subword Tokenization**: Subword Tokenization rely on the principle that frequently used words should not be split into smaller subwords, but rare words should be decomposed into meaningful subwords. On my journey of Machine Learning and Deep Learning, I have started reading from **Hugging Face**. I have read about Configurable Tokenizer Methods, Attention Masks, Tokenization Pipeline, Vocabulary, Tensors and Arrays, Padding and Truncation and few more topics related to the same from here. I have presented the implementation of Tokenization Pipeline here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Hugging Face
+  - [**Hugging Face: Models & Tokenizers**](https://github.com/ThinamXx/HuggingFace/blob/main/03.%20Tokenizers%20%26%20Models/Models%26Tokenizers.ipynb)
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2030.PNG)
+
