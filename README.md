@@ -287,4 +287,4 @@
   - Transformers for Natural Language Processing
   - [**Fine-Tuning BERT Model**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/02.%20Fine-Tuning%20BERT%20Models/BERT.ipynb)
 
-![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2031a.PNG)
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2032.PNG)
