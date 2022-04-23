@@ -27,6 +27,8 @@
 | 14. [**Hugging Face: Models & Tokenizers**](https://github.com/ThinamXx/HuggingFace/blob/main/03.%20Tokenizers%20%26%20Models/Models%26Tokenizers.ipynb) |
 | 15. [**Hugging Face: Pretrained Models**](https://github.com/ThinamXx/HuggingFace/blob/main/04.%20Pretrained%20Models/PretrainedModel.ipynb) |
 | 18. [**Fine-Tuning BERT Model**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/02.%20Fine-Tuning%20BERT%20Models/BERT.ipynb) |
+| 19. [**Machine Translation**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/05.%20Machine%20Translation/MachineTranslation.ipynb) |
+| 20. [**Text Classification**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/02.%20Text%20Classification/Text%20Classification.ipynb) |
 
 **Day1 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have been reading about History of Deep Learning, Image Fundamentals, Pixels, Scaling and Aspect Ratios, Image Classification, Semantic Gap, Feature Extraction, Viewpoint Variation, Scale Variation, Deformation, Occlusions, Illumination, Background Clutter, Intra-class Variation, Supervised and Unsupervised Learning and few more topics related to the same. I have presented the notes about Image Classification, Semantic Gap, Feature Extraction, Supervised and Unsupervised Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
@@ -288,3 +290,20 @@
   - [**Fine-Tuning BERT Model**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/02.%20Fine-Tuning%20BERT%20Models/BERT.ipynb)
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2032.png)
+
+**Day33 of MachineLearningDeepLearning**
+- **Machine Translation**:Machine translation is the process of reproducing human translation by machine transductions and outputs. The transduction process of the original Transformer architecture uses the encoder, the decoder stack, and all of the model's parameters to represent a reference sequence. On my journey of Machine Learning and Deep Learning, I have been reading the book **Transformers for Natural Language Processing**. Here, I have read about Pretraining RoBERTa Model, Machine Transduction & Transformers, Machine Translation, BLEU and Trax and few more topics related to the same from here. I have presented the implementation of Processing WMT Dataset here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Transformers for Natural Language Processing
+  - [**Machine Translation**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/05.%20Machine%20Translation/MachineTranslation.ipynb)
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2033.png)
+
+**Day34 of MachineLearningDeepLearning**
+- **Encoder-Decoder Architectures**:The numerical representation computed for a given token in encoder only transformer architecture depends both on the left or before the token and the right or after the token contexts which is called bidirectional attention. The numerical representation computed for a given token in decoder only transformer architecture depends only on the left context which is called autoregressive attention. On my journey of Machine Learning and Deep Learning, I have been reading the book **Natural Language Processing with Transformers**. Here, I have read about Encoder-Decoder Architectures, Attention Mechanisms, Transfer Learning, 🤗 Ecosystem, Text Classification, Class Distributions, Tokenization, Fine-Tuning Transformers and Feature Extraction and many more topics related to Transformers.
+- Book:
+  - Natural Language Processing with Transformers
+  - [**Text Classification**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/02.%20Text%20Classification/Text%20Classification.ipynb)
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2034.png)
+
