@@ -29,6 +29,8 @@
 | 18. [**Fine-Tuning BERT Model**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/02.%20Fine-Tuning%20BERT%20Models/BERT.ipynb) |
 | 19. [**Machine Translation**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/05.%20Machine%20Translation/MachineTranslation.ipynb) |
 | 20. [**Text Classification**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/02.%20Text%20Classification/Text%20Classification.ipynb) |
+| 21. [**Named Entity Recognition**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/04.%20Named%20Entity%20Recognition/NER.ipynb) |
+| 22. [**Text Generation**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/05.%20Text%20Generation/Text%20Generation.ipynb) | 
 
 **Day1 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have been reading about History of Deep Learning, Image Fundamentals, Pixels, Scaling and Aspect Ratios, Image Classification, Semantic Gap, Feature Extraction, Viewpoint Variation, Scale Variation, Deformation, Occlusions, Illumination, Background Clutter, Intra-class Variation, Supervised and Unsupervised Learning and few more topics related to the same. I have presented the notes about Image Classification, Semantic Gap, Feature Extraction, Supervised and Unsupervised Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
@@ -307,3 +309,11 @@
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2034.png)
 
+**Day35 of MachineLearningDeepLearning**
+- **Named Entity Recognition**:NER is a common NLP task that identifies entities like people, organizations or locations in text. These entities can be used for various applications such as gaining insights from documents, augmenting the quality of search engines, or building a structured database from a corpus. On my journey of Machine Learning and Deep Learning, I have been reading the book **Natural Language Processing with Transformers**. Here, I have read about Multilingual Named Entity Recognition, Cross-Lingual Transfer, Text Generation, Greedy Search Decoding, Beam Search Decoding, Sampling Methods, Top-k and Nucleus Sampling, Fine-Tuning XLM-Roberta, Error Analysis and many more topics related to the same from here. I have presented the implementation of Text Generation here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Natural Language Processing with Transformers
+  - [**Text Generation**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/05.%20Text%20Generation/Text%20Generation.ipynb)
+  - [**NER**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/04.%20Named%20Entity%20Recognition/NER.ipynb)
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2035.png)
