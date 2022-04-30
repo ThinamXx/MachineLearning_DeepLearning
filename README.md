@@ -31,6 +31,7 @@
 | 20. [**Text Classification**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/02.%20Text%20Classification/Text%20Classification.ipynb) |
 | 21. [**Named Entity Recognition**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/04.%20Named%20Entity%20Recognition/NER.ipynb) |
 | 22. [**Text Generation**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/05.%20Text%20Generation/Text%20Generation.ipynb) | 
+| 23. [**Transformers & Production**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/08.%20Transformers%20in%20Production/Transformers%26Production.ipynb) |
 
 **Day1 of MachineLearningDeepLearning**
 - On my Journey of Machine Learning and Deep Learning, I have been reading about History of Deep Learning, Image Fundamentals, Pixels, Scaling and Aspect Ratios, Image Classification, Semantic Gap, Feature Extraction, Viewpoint Variation, Scale Variation, Deformation, Occlusions, Illumination, Background Clutter, Intra-class Variation, Supervised and Unsupervised Learning and few more topics related to the same. I have presented the notes about Image Classification, Semantic Gap, Feature Extraction, Supervised and Unsupervised Learning here in the snapshot. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
@@ -317,3 +318,11 @@
   - [**NER**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/04.%20Named%20Entity%20Recognition/NER.ipynb)
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2035.png)
+
+**Day36 of MachineLearningDeepLearning**
+- **Knowledge Distillation**: Knowledge distillation is a general purpose method for training a smaller student model to mimic the behavior of a slower, larger, but better performing teacher model. The KL divergence expects the inputs in the form of log probabilities and labels as normal probabilities. So, we have used log softmax to normalize the student's logits while teacher's logits are converted to probabilities with a standard softmax. On my journey of Machine Learning and Deep Learning, I have been reading the book **Natural Language Processing with Transformers**. Here, I have read about Performance Benchmarking, Knowledge Distillation for Fine-Tuning, Distillation Trainer, Text Summarization and Question Answering Pipelines and many more topics related to the same. I have presented the implementation of Distillation Training Arguments, Trainer and Computing metrics using Transformers here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Natural Language Processing with Transformers
+  - [**Transformers and Production**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/08.%20Transformers%20in%20Production/Transformers%26Production.ipynb) 
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2036.png)
