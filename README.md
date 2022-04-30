@@ -8,6 +8,7 @@
 | 2. **Pattern Recognition and Machine Learning - Bishop** | ✅ | 
 | 3. **Hugging Face** | ✅ |
 | 4. **Transformers for Natural Lanaguage Processing** | ✅ | 
+| 5. **Natural Language Processing with Transformers** | |
 
 | Projects and Notebooks |
 | ---------------------- |
@@ -325,4 +326,4 @@
   - Natural Language Processing with Transformers
   - [**Transformers and Production**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/08.%20Transformers%20in%20Production/Transformers%26Production.ipynb) 
 
-![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2036.png)
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2036.PNG)
