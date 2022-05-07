@@ -327,3 +327,11 @@
   - [**Transformers and Production**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/08.%20Transformers%20in%20Production/Transformers%26Production.ipynb) 
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2036.PNG)
+
+**Day37 of MachineLearningDeepLearning**
+- On my journey of Machine Learning and Deep Learning, I have been reading the book **Natural Language Processing with Transformers**. Here, I have read about Dealing with Few Labels, Zero-Shot Classification, Multilabel Text Classification & Multilabel Binarizer, Training Slices, Naive Bayes Classifier, Natural Language Inference, Data Augmentation and Embeddings, Mean Pooling and many topics related to the same from here. I have presented the implementation of Training Naive Bayes Classifier and Mean Pooling using Transformers here in the snapshot. I hope you will gain some insights and you will also spend some time learning the topics from the book mentioned below. Excited about the days ahead !!
+- Book:
+  - Natural Language Processing with Transformers
+  - [**Dealing with Few Labels**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/09.%20Dealing%20with%20Labels/FewLabels.ipynb) 
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2037.PNG)
