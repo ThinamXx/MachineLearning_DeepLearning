@@ -335,3 +335,9 @@
   - [**Dealing with Few Labels**](https://github.com/ThinamXx/Transformers_NLP/blob/main/02.%20NLP%20with%20Transformers/09.%20Dealing%20with%20Labels/FewLabels.ipynb) 
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2037.PNG)
+
+**Day38 of MachineLearningDeepLearning**
+- On my journey of Machine Learning and Deep Learning, I have started taking the course **Stanford CS224N: NLP with Deep Learning**. Here, I am learning about Word Vectors, Conditional Probability Distribution, Distributional Semantics, Word2Vec Embedding Model, Softmax Function, Human Language and Word meaning, and many more topics related to the same. I have shared the notes about Word Vectors, Distributional Semantics, and Word2Vec Model here in the snapshot. I hope you will gain some insights and spend time learning the topics from the course mentioned below. I am excited about the days ahead.
+- **Stanford CS224N: NLP with Deep Learning**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2038.png)
