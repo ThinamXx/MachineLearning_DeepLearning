@@ -341,3 +341,9 @@
 - **Stanford CS224N: NLP with Deep Learning**
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2038.png)
+
+**Day39 of MachineLearningDeepLearning**
+- On my journey of Machine Learning and Deep Learning, I have been taking the course **Stanford CS224N: NLP with Deep Learning**. Here, I am learning about Word Vectors, Word2Vec Model, Training Methods and Algorithms, Skip Grams and Continuous Bag of Words Models, Gradient Descent and Problems, Stochastic Gradient Descent, and many more topics related to the same. I have shared the notes about Word2Vec Model, and Gradient Descent here in the snapshot. I hope you will gain some insights and spend time learning the topics from the course mentioned below. I am excited about the days ahead.
+- **Stanford CS224N: NLP with Deep Learning**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2039.png)
