@@ -8,7 +8,7 @@
 | 2. **Pattern Recognition and Machine Learning - Bishop** | ✅ | 
 | 3. **Hugging Face** | ✅ |
 | 4. **Transformers for Natural Lanaguage Processing** | ✅ | 
-| 5. **Natural Language Processing with Transformers** | |
+| 5. **Natural Language Processing with Transformers** | ✅ |
 
 | Projects and Notebooks |
 | ---------------------- |
