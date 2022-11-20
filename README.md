@@ -347,3 +347,9 @@
 - **Stanford CS224N: NLP with Deep Learning**
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2039.png)
+
+**Day40 of MachineLearningDeepLearning**
+- On my journey of Machine Learning and Deep Learning, I have been taking the course **UMass CS685: Advanced Natural Language Processing**. Here, I am learning about Natural Langauge Processing, Supervised & Self-supervised Learning, Representation Learning, Sentiment Analysis, Language Modeling & Importances, Chain Rule & Markov Rule, Unigram & Bigram Models, Log Probabilities, Perplexity, and many more topics related to the same. I have shared the notes about Language Modeling & Perplexity here in the snapshot. I hope you will gain some insights and spend time learning the topics from the course mentioned below. I am excited about the days ahead.
+- **UMass CS685: Advanced Natural Language Processing**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2040.png)
