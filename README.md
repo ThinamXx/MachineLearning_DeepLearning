@@ -353,3 +353,9 @@
 - **UMass CS685: Advanced Natural Language Processing**
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2040.png)
+
+**Day41 of MachineLearningDeepLearning**
+- **Batch size** generally tells us how many training examples do we use to estimate the derivate of loss with respect to the parameters before taking a step. On my journey of Machine Learning and Deep Learning, I have been taking the course **UMass CS685: Advanced Natural Language Processing**. Here, I am learning about N-gram Models, Recurrent Neural Networks, Batch Size, Cross-entropy Loss Function, Gradient Descent & Backpropagation, Composition Functions, Forward Propagation, One-hot Vectors & Vocabulary, and many more topics related to the same. I have shared the notes about Language Modeling & Gradient Descent here in the snapshot. I hope you will gain some insights and spend time learning the topics from the course mentioned below. I am excited about the days ahead.
+- **UMass CS685: Advanced Natural Language Processing**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2041.png)
