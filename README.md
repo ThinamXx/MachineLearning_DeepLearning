@@ -359,3 +359,10 @@
 - **UMass CS685: Advanced Natural Language Processing**
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2041.png)
+
+**Day42 of MachineLearningDeepLearning**
+- **Text to Speech**: Text-to-speech (TTS) also known as speech synthesis, which aims to synthesize intelligible and natural speech when given a text, has broad applications in human communication. Developing a TTS system requires knowledge of languages and human speech production. **Transformer-based Acoustic Models**:
+TransformerTTS leverages Transformer based encoder -attention-decoder architecture to generate mel-spectograms from phonemes. TransformerTTS adopts the basic model structure of Transformer and absorbs some designs from Tacotron 2 such as decoder pre net and post-net and stop token prediction. It achieves similar voice quality with Tacotron 2 but enjoys faster training time. I have shared the notes about Text-to-Speech & Text Analysis here in the snapshot. I hope you will gain some insights and spend time learning the topics mentioned below. I am excited about the days ahead.
+- ** A Survey on Neural Speech Synthesis**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2042.png)
