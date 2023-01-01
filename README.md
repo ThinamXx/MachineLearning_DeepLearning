@@ -366,3 +366,9 @@ TransformerTTS leverages Transformer based encoder -attention-decoder architectu
 - ** A Survey on Neural Speech Synthesis**
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2042.png)
+
+**Day43 of MachineLearningDeepLearning**
+- The **Module** class contains three methods: The __init__ method stores the learnable parameters. The training_step method accepts a data branch to return the loss value. The configure_optimizers method returns the optimization method that is used to update the learnable parameters. The validation_step method reports the evaluation measures. On my journey of Machine Learning and Deep Learning, I am reading the book "Dive into Deep Learning". I have read about Object Oriented Design Implementation & Modules, Linear Regression, Vectorization, Normal Distribution & Squared Loss, Linear Algebra & Calculus, Probability & Statistics, Data Manipulation, Data Preprocessing, and many more topics related to the same. I have shared the implementation of the Module here in the snapshot. I hope you will gain some insights and spend time learning the topics from the book mentioned below. I am excited about the days ahead.
+- **Dive into Deep Learning**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2043.png)
