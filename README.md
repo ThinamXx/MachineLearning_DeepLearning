@@ -378,3 +378,9 @@ TransformerTTS leverages Transformer based encoder -attention-decoder architectu
 - **Dive into Deep Learning**
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2045.png)
+
+**Day45 of MachineLearningDeepLearning**
+- **Attention & Transformers:** The idea behind the Transformer model is the attention mechanism, an innovation that was originally envisioned as an enhancement for encoder-decoder RNNs applied to sequence-to-sequence models. The intuition behind attention is that rather than compressing the input, it might be better for the decoder to revisit the input sequence at every step. On my journey of Machine Learning and Deep Learning, I continued reading the book **Dive into Deep Learning**. I have read about Linear Regression, Training Errors & Generalization Errors, Normalization & Weight Decay, Attention Mechanisms & Transformers, Queries, Keys & Values, Attention Pooling & Nadaraya Watson Regression, and many other topics related to the same. I have shared the implementation of the Nadaraya Watson and Kernels here in the snapshot. I hope you will gain some insights and spend time learning the topics from the book mentioned below. I am excited about the days ahead.
+- **Dive into Deep Learning**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2046.png)
