@@ -372,3 +372,9 @@ TransformerTTS leverages Transformer based encoder -attention-decoder architectu
 - **Dive into Deep Learning**
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2043.png)
+
+**Day44 of MachineLearningDeepLearning**
+- **DataLoaders:** DataLoaders are a convenient way of abstracting out the process of loading and manipulating data so that the same machine-learning algorithm is capable of processing many different types and sources of data without the need for modification. On my journey of Machine Learning and Deep Learning, I am reading the book "Dive into Deep Learning". I have read about Data Module & DataLoader, Trainer Class & Training, Synthetic Regression Data, Object Oriented Design, Loss & Minibatches, and I have also read about Greedy Algorithms, Dynamic Programming, Backtracking, and many other topics related to the same.  I have shared the implementation of the Data Module here in the snapshot. I hope you will gain some insights and spend time learning the topics from the book mentioned below. I am excited about the days ahead.
+- **Dive into Deep Learning**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2045.png)
