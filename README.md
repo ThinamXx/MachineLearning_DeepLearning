@@ -384,3 +384,9 @@ TransformerTTS leverages Transformer based encoder -attention-decoder architectu
 - **Dive into Deep Learning**
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2046.png)
+
+**Day46 of MachineLearningDeepLearning**
+- **Attention & Transformers:** The idea behind the Transformer model is the attention mechanism, an innovation that was originally envisioned as an enhancement for encoder-decoder RNNs applied to sequence-to-sequence models. The intuition behind attention is that rather than compressing the input, it might be better for the decoder to revisit the input sequence at every step. On my journey of Machine Learning and Deep Learning, I continued reading the book **Dive into Deep Learning**. I have been reading Attention Mechanisms & Transformers, Attention Scoring Functions, Dot Product Attention, Masked Softmax Operation, Batch Matrix Multiplication, Scaled Dot Product Attention, Additive Attention, and many other topics related to the same.  I have shared the implementation of the Scaled Dot Product Attention here in the snapshot. I hope you will gain some insights and spend time learning the topics from the book mentioned below. I am excited about the days ahead.
+- **Dive into Deep Learning**
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2047.png)
