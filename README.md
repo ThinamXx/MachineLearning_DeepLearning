@@ -398,7 +398,11 @@ TransformerTTS leverages Transformer based encoder -attention-decoder architectu
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2048.png)
 
 **Day48 of MachineLearningDeepLearning**
-**Day47 of MachineLearningDeepLearning**
 - GPT-based Transformers: GPT-based Transformers are pre-trained on a large corpus of text data, which gives them a general understanding of natural language and allows them to perform well on various downstream tasks with minimal fine-tuning. They predict the next token in a sequence based on the previous tokens, which enables them to generate coherent and fluent text. On my journey of Machine Learning and Deep Learning, I am following the materials of Andrej Karpathy on implementing GPT (ChatGPT) from scratch. I continued working on GPT and learned about Multihead self-attention, Feedforward networks with nonlinearity, Token, and positional embedding, Layer normalization, dropout, and many other topics related to the same. I have presented the implementation of the GPTLanguage Mode or pre-training of ChatGPT here in the snapshot. I hope you will gain some insights and spend time learning the topics from the book mentioned below. I am excited about the days ahead.
 
 ![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2049.png)
+
+**Day49 of MachineLearningDeepLearning**
+- **Stable Diffusion:** Stable Diffusion is a deep learning text-to-image model which is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text prompt. It is a latent diffusion model which is a kind of deep generative neural network. On my journey of Machine Learning and Deep Learning, I am learning about GAN Models, Large Language Models, Stable Diffusion, and Whisper. In Stable Diffusion, I learned about Stable Diffusion Pipeline, Classifier-Free Guidance, Negative Prompts, Image to Image Diffusion, and many other topics related to the same. I have presented the implementation of Image to Image Diffusion here in the snapshot. I hope you will gain some insights and spend time learning the topics from the book mentioned below. I am excited about the days ahead.
+
+![Image](https://github.com/ThinamXx/MachineLearning_DeepLearning/blob/main/Images/Day%2050.png)
