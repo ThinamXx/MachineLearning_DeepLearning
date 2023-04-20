@@ -10,7 +10,6 @@
 | 4. **Transformers for Natural Lanaguage Processing** | ✅ | 
 | 5. **Natural Language Processing with Transformers** | ✅ |
 
-
 | Projects and Notebooks |
 | ---------------------- |
 | 1. [**Image Classification**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/Simplepreprocessor.ipynb) |
